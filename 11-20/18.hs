@@ -1,0 +1,1 @@
+slice xs i k = map (xs!!) [i-1 .. k-1]
